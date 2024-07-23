@@ -74,12 +74,12 @@ If you only have access to one of the models, you can still continue to use this
 - `/reset`: reset the chat history
 - `/settings`: show Claude & Bard settings
 - `/mode`: switch between Claude and Bard
-- `/model NAME`: change model (**Claude only**)
+- `/task NAME`: change model (**Claude only**)
   - **Options:**
             default,
             coder,
             writer
-- `/task NAME`: select from one of the system prompts you've added to utils file
+- `/model NAME`: select from one of the system prompts you've added to utils file
   - **Options:**
             claude-2,
             claude-instant-1
